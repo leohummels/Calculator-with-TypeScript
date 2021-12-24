@@ -6,4 +6,4 @@ Para poder conferir a aplicação, baixe este repositório em sua máquina local
 Com todos os arquivos presentes em uma única pasta, será possível conferir dois locais em que pode se inserir os números e um espaço para caracteres de operadores
 (*, /, + e -). Caso seja colocado qualquer outro valor em um dos três campos, a aplicação retornará por padrão a mensagem "operação inválida".
 
-Este projeto foi feito inspirado nas aulas ministrada pelo Willian Justen, que fez um minicurso de TypeScript que vale a pena conferir[https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_]!
+Este projeto foi feito inspirado nas aulas ministrada pelo Willian Justen, que fez um minicurso de TypeScript que vale a pena [conferir](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_)!
