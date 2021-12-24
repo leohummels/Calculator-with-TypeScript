@@ -1,0 +1,46 @@
+body{
+    background-color: darkgrey;
+    font-weight: bold;
+    
+}
+
+#principal {
+    width: 100vw;
+    height: 30vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#principal input, #principal button{
+    margin: 0vw 0.5vw 0vw 0.5vw;
+    text-align: center;
+}
+
+#v1, #v2 {
+    width: 10vw
+}
+
+#operador {
+    width: 7vw;
+}
+
+#title {
+    color: whitesmoke;
+    height: 30vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#result {
+    color: whitesmoke;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+}
