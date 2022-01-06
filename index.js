@@ -1,7 +1,4 @@
 "use strict";
-let vA;
-let vB;
-let op;
 let result;
 const value1 = document.getElementById("v1");
 const value2 = document.getElementById("v2");

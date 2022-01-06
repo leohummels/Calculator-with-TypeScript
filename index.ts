@@ -1,6 +1,3 @@
-let vA: number
-let vB: number
-let op: string
 let result: string
 
 const value1 = document.getElementById("v1") as HTMLInputElement
@@ -50,7 +47,7 @@ parseInt(value2.value, 10)
 btn.addEventListener("click", () => {   if(document.getElementById("paragraph")) {
                                             document.getElementById("paragraph")?.remove()
                                         }
-                                        
+
                                         result = calculator(parseInt(value1.value, 10), parseInt(value2.value, 10), operator.value).toString()
                                         const p = document.createElement("p")
                                         p.setAttribute("id", "paragraph")
